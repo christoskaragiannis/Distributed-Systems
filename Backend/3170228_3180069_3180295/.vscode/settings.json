@@ -1,0 +1,10 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "NetworkUtils.jar",
+    "c:\\Users\\giorg\\Documents\\3170228_3180069_3180295-20230522T100627Z-001\\NetworkUtils\\NetworkUtils.jar",
+    "c:\\Users\\giorg\\Documents\\3170228_3180069_3180295-20230522T100627Z-001\\Utilities.jar",
+    "c:\\Users\\giorg\\Documents\\3170228_3180069_3180295-20230522T100627Z-001\\Utilities\\Utilities.jar",
+    "c:\\Users\\christos\\Desktop\\db\\TrackingApp\\3170228_3180069_3180295-20230522T100627Z-001\\Utilities\\Utilities.jar"
+  ]
+}
